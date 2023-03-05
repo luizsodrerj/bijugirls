@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45f0c775.css",
+    "main.js": "/static/js/main.46aac62d.js",
+    "static/media/pul-vas.jpeg": "/static/media/pul-vas.e96b1f35af5c32d021af.jpeg",
+    "static/media/pulseira-3-pin-prata.PNG": "/static/media/pulseira-3-pin-prata.581c54bb89bf735c1a3d.PNG",
+    "static/media/puls-det-dou.jpeg": "/static/media/puls-det-dou.746c00fa58fdb8ef30ba.jpeg",
+    "static/media/puls-rox.jpeg": "/static/media/puls-rox.13d53710b30d5a1d31b3.jpeg",
+    "static/media/pulseira-3-ping.PNG": "/static/media/pulseira-3-ping.c0ff3ef8c5fc0341465d.PNG",
+    "static/media/puls-beje.jpeg": "/static/media/puls-beje.a2fe2cd163e26902c048.jpeg",
+    "static/media/relogio-cobre.PNG": "/static/media/relogio-cobre.c7808be32d73f45984c4.PNG",
+    "static/media/relogio-dourado.PNG": "/static/media/relogio-dourado.f5991b684d0a6199925c.PNG",
+    "static/media/div-bijus.jpeg": "/static/media/div-bijus.42af9211638f1f7be474.jpeg",
+    "static/media/brinc-dou.jpeg": "/static/media/brinc-dou.aac7185d50e9f4972672.jpeg",
+    "static/media/col-ver.jpeg": "/static/media/col-ver.ce967566547c0e672f94.jpeg",
+    "static/media/coracao.PNG": "/static/media/coracao.a5afaf69d284148b58d0.PNG",
+    "static/media/borbo-dourada.PNG": "/static/media/borbo-dourada.d7b3e06804db85476256.PNG",
+    "static/media/div-bij-cor.jpeg": "/static/media/div-bij-cor.aa73ac94253f17469df9.jpeg",
+    "static/media/colar-olhogreg.jpeg": "/static/media/colar-olhogreg.b310623f1feeb8a6e639.jpeg",
+    "static/media/party-biju.PNG": "/static/media/party-biju.33788e8efa2c71e48cb1.PNG",
+    "index.html": "/index.html",
+    "main.45f0c775.css.map": "/static/css/main.45f0c775.css.map",
+    "main.46aac62d.js.map": "/static/js/main.46aac62d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f0c775.css",
+    "static/js/main.46aac62d.js"
+  ]
+}
